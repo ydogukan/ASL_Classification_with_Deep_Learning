@@ -1,4 +1,4 @@
-# American Sign Language (ASL) Classsification with Deep Learning
+# American Sign Language (ASL) Classification with Deep Learning
 
 
 ## Kaggle Competition Description
